@@ -34,4 +34,4 @@ Feel free to fork this repository and contribute additional queries or improveme
 
 This project is licensed under the [MIT License](LICENSE).
 
-<!-- Minor formatting update -->
+<!-- Minor formatting update -
