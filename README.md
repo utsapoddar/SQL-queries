@@ -33,5 +33,3 @@ Feel free to fork this repository and contribute additional queries or improveme
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-<!-- Minor formatting upda
